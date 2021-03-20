@@ -1,1 +1,68 @@
+body {
+    margin: 0px;
+    max-width: 80em;
+    background-color:	#ffe5e5;
+    line-height: 1.5;
+    text-align: justify;
+    color: #004d66;
+    font-family: 'Syne Mono', monospace, sans-serif;
+    font-size: 20px;
+  }
+  
+  .menu {
+      margin-left: 30px;
+      padding-top: 60px;
+  }
+
+  h1 
+  {text-align: center}
+  
+  header {
+  background-color: #ac24bb;
+  }
+  
+  .omne {
+    margin-left: 60px;
+    margin-right:90px;
+    padding-right: 70px;
+  }
+  
+  .kontakt {
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    clear: left;
+  }
+
+  .foto {
+      width: 210px;
+      float: left;
+      border-radius: 10% 10% 10% 10%;
+      margin: 80px 30px 10px 60px;
+  }
+
+  table {
+    border-spacing: 0;
+  }
+
+  h1 {
+      float: right;
+      padding: 0px 550px 0px 60px;
+  }
+
+  header {
+    padding: 180px;
+    background-image: url(obrazky/P9015914.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+  
+
+
+
+
+
 
